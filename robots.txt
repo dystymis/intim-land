@@ -46,4 +46,5 @@ User-agent: CCBot
 Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
+# llms.txt: https://dystymis.github.io/intim-land/llms.txt
 Sitemap: https://dystymis.github.io/intim-land/sitemap.xml
